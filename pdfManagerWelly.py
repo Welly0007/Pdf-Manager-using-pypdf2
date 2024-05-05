@@ -1,9 +1,7 @@
 # Program:  A pdf manager program to split, merge, and extract pdf pages
 #           the user just input the filename.pdf (file must be included in the same program directory)
-# Authors :
-#           Author 1: Mohamed Wael Mohamed Safwat   20230360  
-#           Author 2: Ali Ahmed Fathy               20230239   
-#           Author 3: Mohamed Walid Mohamed         20230585  
+# Authors : 
+#           Author 1: Mohamed Walid Mohamed
 # Version: 1.0
 # Date:    Mar 1 2024
 
