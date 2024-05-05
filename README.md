@@ -9,9 +9,7 @@ This program serves as a PDF manager enabling users to perform various operation
 - **Split PDF Pages**: Split a PDF file into separate pages.
 
 ## Authors
-- Mohamed Wael Mohamed Safwat (20230360)
-- Ali Ahmed Fathy (20230239)
-- Mohamed Walid Mohamed (20230585)
+- Mohamed Walid Mohamed
 
 ## Version
 1.0
